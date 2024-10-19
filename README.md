@@ -32,10 +32,13 @@ il est necessaire de prendre une dependance jumelle
 
  *** vers la 
 
- ****installation de l'executable 
- mvn install
  
 <dependency>
 	<groupId>org.springframework.cloud</groupId>
 	<artifactId>spring-cloud-starter-bus-amqp</artifactId>
 </dependency>
+
+
+ #### ****installation de l'executable 
+ mvn install
+ java -jar service-users-0.0.1-SNAPSHOT.jar
