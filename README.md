@@ -44,3 +44,11 @@ il est necessaire de prendre une dependance jumelle
  #### ****installation de l'executable 
  mvn install
  java -jar service-users-0.0.1-SNAPSHOT.jar
+
+ ****
+ lorene@lorene-Vostro-3400:~/Bureau/ARCHTECTURE _LOGICIELLE/work_shop_mirco_service_java/service-users/target$ ls
+classes            generated-test-sources  maven-status                      service-users-0.0.1-SNAPSHOT.jar.original  test-classes
+generated-sources  maven-archiver          service-users-0.0.1-SNAPSHOT.jar  surefire-reports
+
+lorene@lorene-Vostro-3400:~/Bureau/ARCHTECTURE _LOGICIELLE/work_shop_mirco_service_java/service-users/target$ java -jar service-users-0.0.1-SNAPSHOT.jar 
+
