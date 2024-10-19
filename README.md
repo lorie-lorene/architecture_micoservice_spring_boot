@@ -31,6 +31,9 @@ il est necessaire de prendre une dependance jumelle
 </dependency> 
 
  *** vers la 
+
+ ****installation de l'executable 
+ mvn install
  
 <dependency>
 	<groupId>org.springframework.cloud</groupId>
